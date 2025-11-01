@@ -1,0 +1,60 @@
+{
+  "ranges": [
+    {
+      "name": "Yellow",
+      "lower": [
+        3,
+        137,
+        131
+      ],
+      "upper": [
+        47,
+        226,
+        220
+      ]
+    },
+    {
+      "name": "Red",
+      "lower": [
+        0,
+        160,
+        141
+      ],
+      "upper": [
+        14,
+        255,
+        255
+      ]
+    },
+    {
+      "name": "Blue",
+      "lower": [
+        87,
+        77,
+        63
+      ],
+      "upper": [
+        150,
+        250,
+        255
+      ]
+    },
+    {
+      "name": "Green",
+      "lower": [
+        36,
+        68,
+        114
+      ],
+      "upper": [
+        74,
+        219,
+        184
+      ]
+    }
+  ],
+  "distortion_kx100": 93,
+  "morph_op": 1,
+  "kernel_size": 5,
+  "iterations": 1
+}
